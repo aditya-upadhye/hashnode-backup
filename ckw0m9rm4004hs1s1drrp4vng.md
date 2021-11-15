@@ -59,7 +59,7 @@ If you have done this, then your basic Git configuration is done.
 
 ### V. Terms related to Git and GitHub      
 #### 1) repository  
-You can think of repository as a folder. But this is not a normal folder. This is a folder that can be tracked by **Git**.  
+You can think of repository as a folder/directory. But this is not a normal folder. This is a folder that can be tracked by **Git**.  
 
 #### 2) staging area  
 This is the area where your files start being tracked by Git.  
