@@ -4,7 +4,7 @@ Hey there, Thank You for reading my First Blog.
 
 If you are into programming or the Tech-side of the World, you must have surely heard of the terms **Git** and **GitHub**. But do you know what is it and how to get started with it? Here is a guide for you. 
 
-This guide is divided into the following sections: 
+This guide is divided in the following sections: 
 
 #### I.      What is Git and GitHub  
 #### II.     How to create an account on GitHub  
