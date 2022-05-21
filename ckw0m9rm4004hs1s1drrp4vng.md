@@ -149,9 +149,9 @@ You have successfully cloned a repository from GitHub.
 i) Create a repository directly on GitHub.  
 ii) Clone the repository in your local system.  
 iii) Make your required changes.  
-iii) Add files to track (using `git add .`)   
-iv) Commit changes (using `git commit -m "<Commit Message>"`)  
-v) Push your changes into Git (using `git push`) **   
+iv) Add files to track (using `git add .`)   
+v) Commit changes (using `git commit -m "<Commit Message>"`)  
+vi) Push your changes into Git (using `git push`) **   
 
 Next, you will get a window like this screenshot:  
 
